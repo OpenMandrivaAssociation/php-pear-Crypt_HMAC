@@ -6,7 +6,7 @@
 Summary:	%{_pearname} - A class to calculate RFC 2104 compliant hashes
 Name:		php-pear-%{_pearname}
 Version:	1.0.1
-Release:	%mkrel 9
+Release:	%mkrel 10
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2

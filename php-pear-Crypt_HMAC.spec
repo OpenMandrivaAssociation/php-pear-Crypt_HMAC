@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0.1
-Release:	15
+Release:	16
 Summary:	A class to calculate RFC 2104 compliant hashes
 License:	PHP License
 Group:		Development/PHP
